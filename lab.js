@@ -92,9 +92,9 @@ let rain = true;
 
 //CODE HERE
 
-for( let i = 0; i < 10; i++ ){
-  console.log('hello')
-}
+// for( let i = 0; i < 10; i++ ){
+//   console.log('hello')
+// }
 
 ////////// PROBLEM 6 //////////
 
@@ -103,6 +103,10 @@ for( let i = 0; i < 10; i++ ){
 */
 
 //CODE HERE
+
+for(let i = 1; i < 11; i++){
+  console.log(i)
+}
 
 ////////// PROBLEM 7 //////////
 
