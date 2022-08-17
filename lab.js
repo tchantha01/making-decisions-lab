@@ -104,9 +104,9 @@ let rain = true;
 
 //CODE HERE
 
-for(let i = 1; i < 11; i++){
-  console.log(i)
-}
+// for(let i = 1; i < 11; i++){
+//   console.log(i)
+// }
 
 ////////// PROBLEM 7 //////////
 
@@ -115,6 +115,10 @@ for(let i = 1; i < 11; i++){
 */
 
 //CODE HERE
+
+// for(let i = 10; i > -1; i--){
+//   console.log(i)
+// }
 
 
 ////////// PROBLEM 8 //////////
@@ -127,6 +131,8 @@ let passingScore = 7;
 */
 
 //CODE HERE
+
+
 
 ////////// INTERMEDIATE PROBLEMS //////////
 
