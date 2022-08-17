@@ -132,7 +132,10 @@ let passingScore = 7;
 
 //CODE HERE
 
-
+// // while (score < 7){
+// //   console.log('your score is not high wnough')
+// //   score++
+// }
 
 ////////// INTERMEDIATE PROBLEMS //////////
 
